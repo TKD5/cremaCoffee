@@ -300,7 +300,7 @@ button {
     width: 100%;
     float: left;
     font-size: 70px;
-    color: #f76d37;
+    color: black;
     font-weight: bold;
     padding-bottom: 0px;
 }
@@ -309,7 +309,7 @@ button {
     width: 50%;
     float: left;
     font-size: 16px;
-    color: #f76d37;
+    color: black;
     margin: 0px;
     padding-bottom: 30px;
 }
